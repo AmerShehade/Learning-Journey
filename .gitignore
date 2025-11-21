@@ -1,0 +1,18 @@
+# --- Mac OS (ملفات الماك المزعجة) ---
+.DS_Store
+
+# --- Python (مخلفات بايثون) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# --- VS Code (إعدادات المحرر الشخصية) ---
+.vscode/
+
+# --- C# / .NET (للمستقبل) ---
+bin/
+obj/
+*.user
